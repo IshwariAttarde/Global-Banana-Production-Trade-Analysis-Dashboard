@@ -26,7 +26,7 @@ An interactive Power BI dashboard that turns 15 years of FAOSTAT agricultural da
 The dashboard uses FAOSTAT data (2010–2024) to analyze production and trade across **147 countries** and regions, combining KPIs, trend analysis, country rankings, and a fully flexible tabular explorer.
 
 **Author:** Ishwari Sanjay Attarde
-**Connect:** [LinkedIn – ishwari-attarde](https://www.linkedin.com/in/ishwariattarde/)
+**Connect:** [LinkedIn – ishwari-attarde](https://www.linkedin.com/in/ishwariattarde/)**
 
 🔗 **[Open the Live Interactive Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiMmQxODA1MDktNDQ1MC00NTQ3LWJlMWUtNWU4OGNiOWI2NmNhIiwidCI6ImM5YzUwODQ4LWIwM2EtNGJlNC1iNjU1LTZlZGQ3ZmI4MWM1YSJ9)**
 No installation needed — explore production, trade, and country-level data directly in your browser.

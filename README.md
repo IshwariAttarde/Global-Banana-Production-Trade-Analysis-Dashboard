@@ -9,7 +9,6 @@ An interactive Power BI dashboard that turns 15 years of FAOSTAT agricultural da
   <img alt="Data Source" src="https://img.shields.io/badge/Data%20Source-FAOSTAT-2e7d32?style=flat-square">
   <img alt="Countries" src="https://img.shields.io/badge/Countries-147-2e7d32?style=flat-square">
   <img alt="Tool" src="https://img.shields.io/badge/Built%20With-Power%20BI-f2c811?style=flat-square">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue?style=flat-square">
 </p>
 
 <p align="center">
@@ -27,7 +26,7 @@ An interactive Power BI dashboard that turns 15 years of FAOSTAT agricultural da
 The dashboard uses FAOSTAT data (2010–2024) to analyze production and trade across **147 countries** and regions, combining KPIs, trend analysis, country rankings, and a fully flexible tabular explorer.
 
 **Author:** Ishwari Sanjay Attarde
-**Connect:** [LinkedIn – ishwari-attarde](https://www.linkedin.com/in/ishwari-attarde)
+**Connect:** [LinkedIn – ishwari-attarde]([https://www.linkedin.com/in/ishwari-attarde](https://www.linkedin.com/in/ishwariattarde/))
 
 🔗 **[Open the Live Interactive Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiMmQxODA1MDktNDQ1MC00NTQ3LWJlMWUtNWU4OGNiOWI2NmNhIiwidCI6ImM5YzUwODQ4LWIwM2EtNGJlNC1iNjU1LTZlZGQ3ZmI4MWM1YSJ9)**
 No installation needed — explore production, trade, and country-level data directly in your browser.
@@ -179,12 +178,10 @@ Just open the **[live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjo
 ## 👤 Author
 
 **Ishwari Sanjay Attarde**
-📌 [LinkedIn](https://www.linkedin.com/in/ishwari-attarde)
+📌 [LinkedIn]([https://www.linkedin.com/in/ishwari-attarde](https://www.linkedin.com/in/ishwariattarde/))
 
 > *"From Farm to World: Insights that drive a better banana future."*
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). FAOSTAT data is subject to the [FAO Terms and Conditions](https://www.fao.org/contact-us/terms/en/).
